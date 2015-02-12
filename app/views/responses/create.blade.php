@@ -1,0 +1,1 @@
+C:\xampp\htdocs\jotus_broadside\app/views/responses/create.blade.php
